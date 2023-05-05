@@ -1,0 +1,23 @@
+.container{
+    backdrop-filter: blur(20px);
+    border:3px solid rgb(4, 77, 26);
+    display: inline-block ; 
+    justify-content:center;
+    width:78%;
+    height:100%;
+    color:rgb(22, 13, 105);
+    padding:7px;
+    margin-bottom:30px;
+    border-radius: 20px;
+}
+
+.creador{
+    padding:10px;
+    margin: 3;
+}
+
+
+a{
+    color:#324ef0;
+    text-decoration: none;
+}
